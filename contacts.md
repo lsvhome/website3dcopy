@@ -8,4 +8,3 @@ title: "Contact Us"
 - Phone: +123456789
 - Location: Kyiv, Ukraine
 
-[Go Back Home](index.html)

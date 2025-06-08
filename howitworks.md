@@ -8,4 +8,3 @@ title: "How It Works"
 2. Step Two - Process
 3. Step Three - Benefits
 
-[Go Back Home](index.html)
