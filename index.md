@@ -1,7 +1,7 @@
 ---
 title: "Home"
 ---
-<!DOCTYPE html>
+
 <!-- saved from url=(0056)https://designmodo.com/startup/app/preview.php?id=37408# -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		
@@ -47,25 +47,25 @@ title: "Home"
 					<div class="p-4 text-center bg-bg-2 text-dark-1">
 						Коли у Вас є один предмет
 					</div>
-					<img src="assets/editor-demo-img.png" srcset="pub/310437/87c5df7df619be64701801eb35edd788/uploads/single.png 2x" alt="" class="img-fluid">
+					<img src="assets/single.png" alt="" class="img-fluid">
 				</div>
 				<div class="col-6 w-25">
 					<div class="p-4 text-center bg-bg-2 text-dark-1">
 						+ наш 3D сканер
 					</div>
-					<img src="assets/editor-demo-img.png" srcset="pub/310437/87c5df7df619be64701801eb35edd788/uploads/scanner2.png 2x" alt="" class="img-fluid">
+					<img src="assets/scanner2.png" alt="" class="img-fluid">
 				</div>
-				<div class="col-4 w-25">
+				<div class="col-6 w-25">
 					<div class="p-4 text-center bg-bg-2 text-dark-1">
 						+ наш 3D принтер
 					</div>
-					<img src="assets/editor-demo-img.png" srcset="pub/310437/87c5df7df619be64701801eb35edd788/uploads/printer2.png 2x" alt="" class="img-fluid">
+					<img src="assets/printer2.png" alt="" class="img-fluid">
 				</div>
-				<div class="col-4 w-25">
+				<div class="col-6 w-25">
 					<div class="p-4 text-center bg-bg-2 text-dark-1">
 						У Вас є два однакових предмети
 					</div>
-					<img src="assets/editor-demo-img.png" srcset="pub/310437/87c5df7df619be64701801eb35edd788/uploads/pair.png 2x" alt="" class="img-fluid">
+					<img src="assets/pair.png" srcset="pub/310437/87c5df7df619be64701801eb35edd788/uploads/pair.png 2x" alt="" class="img-fluid">
 				</div>
 			</div>
 		</section>
