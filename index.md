@@ -27,7 +27,7 @@ title: "Home"
 <!-- Header 2 -->
 	<header class="py-20 bg-bg-3 text-center">
 		<div class="container">
-			<h2 class="display-3 mb-4 mb-xl-6 aos-init aos-animate" data-aos="fade-down" data-aos-delay="0">3D скан + 3D друк = 3D копія</h2>
+			<h2 class="display-3 mb-4 mb-xl-6 aos-init aos-animate" data-aos="fade-down" data-aos-delay="0">3D копія = 3D скан + 3D друк</h2>
 			<p class="fs-1 mb-6 mb-md-8 remove-br aos-init aos-animate" data-aos="fade-down" data-aos-delay="250">надрукуємо деталь із пластику і надішлемо поштою</p>
 		</div>
 	</header>
@@ -43,25 +43,31 @@ title: "Home"
 				</svg>
 			</div>
 			<div class="row">
-				<div class="col-6 w-25">
+				<div class="w-20">
 					<div class="p-4 text-center bg-bg-2 text-dark-1">
 						Коли у Вас є один предмет
 					</div>
 					<img src="assets/single.png" alt="" class="img-fluid">
 				</div>
-				<div class="col-6 w-25">
+				<div class="w-5">
+				</div>
+				<div class="w-20">
 					<div class="p-4 text-center bg-bg-2 text-dark-1">
 						+ наш 3D сканер
 					</div>
 					<img src="assets/scanner2.png" alt="" class="img-fluid">
 				</div>
-				<div class="col-6 w-25">
+				<div class="w-5">
+				</div>
+				<div class="w-20">
 					<div class="p-4 text-center bg-bg-2 text-dark-1">
 						+ наш 3D принтер
 					</div>
 					<img src="assets/printer2.png" alt="" class="img-fluid">
 				</div>
-				<div class="col-6 w-25">
+				<div class="w-5">
+				</div>
+				<div class="w-20">
 					<div class="p-4 text-center bg-bg-2 text-dark-1">
 						У Вас є два однакових предмети
 					</div>
@@ -74,7 +80,7 @@ title: "Home"
 				<div class="container">
 					<div class="row justify-content-between">
 						<div class="col-lg-2 col-md-3 mb-6 mb-md-0 aos-init aos-animate" data-aos="fade-down" data-aos-delay="0">
-							<a href="https://designmodo.com/startup/app/preview.php?id=37408#"><img src="assets/logo-dark.png" srcset="pub/310437/87c5df7df619be64701801eb35edd788/uploads/logo-small001.png 2x" alt="" class="img-fluid"></a>
+							<a href="https://designmodo.com/startup/app/preview.php?id=37408#"><img src="assets/logo-small001.png" srcset="pub/310437/87c5df7df619be64701801eb35edd788/uploads/logo-small001.png 2x" alt="" class="img-fluid"></a>
 						</div>
 						<div class="col mb-4 mb-md-0 aos-init aos-animate" data-aos="fade-down" data-aos-delay="150">
 							<a href="https://designmodo.com/startup/app/preview.php?id=37408#" class="font-heading text-dark-1 mx-4">Додому</a>
