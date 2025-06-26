@@ -71,7 +71,7 @@ title: "Home"
 					<div class="p-4 text-center bg-bg-2 text-dark-1">
 						У Вас є два однакових предмети
 					</div>
-					<img src="assets/pair.png" srcset="pub/310437/87c5df7df619be64701801eb35edd788/uploads/pair.png 2x" alt="" class="img-fluid">
+					<img src="assets/pair.png" alt="" class="img-fluid">
 				</div>
 			</div>
 		</section>
