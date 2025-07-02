@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ site.lang | default: 'en' }}">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
@@ -15,7 +15,7 @@
     <!-- Startup CSS + Bootstrap CSS (Styles for all blocks) - Remove ".min" if you want to edit a css code -->
     <link href="assets/css/styles.min.css" rel="stylesheet" id="sf-custom-css">
     <!-- Styles for controls (delete, move, edit, block name) -->
-    <link href="assets/css/preview.css" rel="stylesheet">
+    <link href="{{ "/assets/css/preview.css" | relative_url }}" rel="stylesheet">
     <!-- Open graph settings (social networks sharing settings) -->
     <meta name="twitter:card" content="summary_large_image">
     <!-- Open graph settings end -->

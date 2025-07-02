@@ -5,3 +5,4 @@ set JEKYLL_VERSION=4.2.0
 :docker run --publish 4000:4000  --rm --volume="%CD%:/srv/jekyll" -it jekyll/jekyll:%JEKYLL_VERSION% sh -c "jekyll serve"
 start http://localhost:4000
 docker run --publish 4000:4000  --rm --volume="%CD%:/srv/jekyll" -it jekyll/jekyll:%JEKYLL_VERSION% sh -c "jekyll serve --force_polling --livereload"
+:docker run --publish 4000:4000  --rm --volume="%CD%:/srv/jekyll" -it jekyll/jekyll:%JEKYLL_VERSION% sh -c "jekyll build"
